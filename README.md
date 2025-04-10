@@ -128,7 +128,3 @@ Budget alerts are emailed when:
 - Sensitive credentials should always be kept in `.env`
 
 ---
-
-## 📜 License
-
-MIT License — feel free to use, modify, and distribute.
